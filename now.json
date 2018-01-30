@@ -1,0 +1,11 @@
+{
+  "name": "thedebug.life",
+  "description": "Personal blog coming soon",
+  "alias": ["thedebug.life"],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "files": ["public", "index.js"],
+  "type": "npm",
+  "public": true
+}
