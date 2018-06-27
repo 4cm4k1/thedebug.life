@@ -1396,9 +1396,9 @@ setprototypeof@1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/setprototypeof/-/setprototypeof-1.1.0.tgz#d0bd85536887b6fe7c0d818cb962d9d91c54e656"
 
-shrink-ray-current@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/shrink-ray-current/-/shrink-ray-current-2.1.0.tgz#0c0cc7b53c827a8d91f57717cb15bb88b95a0c90"
+shrink-ray-current@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/shrink-ray-current/-/shrink-ray-current-2.1.1.tgz#b71e2472dcc6a07f00c53eb43c08c11bbfeb7206"
   dependencies:
     "@types/express" "*"
     "@types/iltorb" "*"
@@ -1499,9 +1499,9 @@ strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
 
-superstatic@^5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/superstatic/-/superstatic-5.0.1.tgz#f0a83942ad8e93c5c53a98341c4a3de229dff94e"
+superstatic@^5.0.2:
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/superstatic/-/superstatic-5.0.2.tgz#d7ce9329ee30daaa762b01d43b548d0b7306ba54"
   dependencies:
     as-array "^2.0.0"
     async "^1.5.2"

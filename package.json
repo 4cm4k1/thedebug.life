@@ -15,8 +15,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "shrink-ray-current": "^2.1.0",
-    "superstatic": "^5.0.1"
+    "shrink-ray-current": "^2.1.1",
+    "superstatic": "^5.0.2"
   },
   "engines": {
     "node": "9.x.x"
